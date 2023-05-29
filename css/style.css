@@ -20,23 +20,14 @@
   padding-right: 20pt;
   padding-top: 20pt;
   font-family: Georgia, serif;
-}
-
-.page-content-instructions {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: xx-large;
+  text-align: center;
 }
 
 .page-content-answer {
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: xx-large;
-}
-
-.weather-icon {
-  height: 250px;
-  width: auto;
-  float: right;
+  text-align: center;
 }
 
 body {
